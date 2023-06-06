@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Sankhyan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" alt="image" width="400" height="400" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsankhyan&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsankhyan" /> </p>
 
